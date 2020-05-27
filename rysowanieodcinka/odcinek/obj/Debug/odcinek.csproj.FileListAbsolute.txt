@@ -1,0 +1,10 @@
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\bin\Debug\odcinek.exe.config
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\bin\Debug\odcinek.exe
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\bin\Debug\odcinek.pdb
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.csprojResolveAssemblyReference.cache
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.Form1.resources
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.Properties.Resources.resources
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.csproj.GenerateResource.Cache
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.exe
+C:\Users\marci\Desktop\rysowanieodcinka\odcinek\obj\Debug\odcinek.pdb
